@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "moment": "^2.30.1",
+    "socket.io": "^4.7.4"
+  },
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "wiklapandu",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
